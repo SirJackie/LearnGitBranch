@@ -4,3 +4,6 @@ Feature 2a
 Feature 2b
 Feature 2c
 Feature 2d
+Feature 3a
+Feature 3b
+Feature 3c
